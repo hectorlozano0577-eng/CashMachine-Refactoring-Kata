@@ -7,7 +7,7 @@ Learning Hour
 -------------
 Connect - Show the code in BankAccount and ask "What could go wrong?". Hopefully they will spot the public mutable field "AccountBalance". Then follow up by asking "What is encapsulation?"
 
-Concept - show the code in CashMachine and ask "What could go wrong?". Hopefully they will spot the [MessageChain](https://www.sammancoaching.org/code_smells/message_chains.html) code smell. Follow up with "What is Coupling?". Then you can explain what that is and how it relates to the Law of Demeter.
+Concept - show the code in CashMachine and ask "What could go wrong?". Hopefully thgh repo clone emilybache/CashMachine-Refactoring-Kataey will spot the [MessageChain](https://www.sammancoaching.org/code_smells/message_chains.html) code smell. Follow up with "What is Coupling?". Then you can explain what that is and how it relates to the Law of Demeter.
 
 Concrete - break the message chain. You can just practice doing the mechanics of that first. There is a branch "sample_solution" which shows an example of what you can aim for. 
 
